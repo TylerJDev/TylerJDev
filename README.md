@@ -10,7 +10,7 @@ I love building and learning, it's a part of the reason why I'm a web developer.
 - [Web Checker](https://github.com/TylerJDev/web-checker) 
 
 ## Blog Posts ✍🏽
-- [The difference between aria-label, aria-labelledby and aria-describedby](https://trjones.dev/2020-08-20-the-difference-between-aria-label-aria-labelledby-and-aria-describedby/)
+- [The difference between aria-label, aria-labelledby and aria-describedby](https://trjones.dev/the-difference-between-aria-label-aria-labelledby-and-aria-describedby/)
 
 ### Upcoming Posts
 1. *Why role="button" is not enough*
