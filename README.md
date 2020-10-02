@@ -16,6 +16,7 @@ I love building and learning, it's a part of the reason why I'm a web developer.
 
 ### Upcoming Posts
 1. *How accessible are emojis?*
+2. *Let's build an accessible modal in React!*
 
 ## Me Around the Web 🛬
 1. **Website**: [trjones.dev](https://trjones.dev/)
