@@ -22,9 +22,3 @@ I love building and learning, it's a part of the reason why I'm a web developer.
 1. **Website**: [trjones.dev](https://trjones.dev/)
 2. **LinkedIn**: [Tyler Jones](https://www.linkedin.com/in/tyjdev/)
 3. **CodePen**: [TylerJDev](https://codepen.io/TylerJDev)
-
-## Small things about me 📋
-* **Favorite Ice Cream** 🍨 - Vanilla Caramel Fudge
-* **Favorite TV show** 📺 - Mr Robot
-* **Favorite Movie** 🎞️ - Hot Fuzz
-* **Favorite Song (*currently*)** 🎵 - California Dreamin' by Eddie Hazel
