@@ -7,7 +7,6 @@ I love building and learning, it's a part of the reason why I'm a web developer.
 ## Currently Working On 🚧
 - [DJ With Friends](https://github.com/TylerJDev/DJ-With-Friends)
 - [YouTube Timestamps](https://github.com/TylerJDev/YouTube-Timestamps)
-- [Web Checker](https://github.com/TylerJDev/web-checker) 
 
 ## Blog Posts ✍🏽
 - [The difference between aria-label, aria-labelledby and aria-describedby](https://trjones.dev/the-difference-between-aria-label-aria-labelledby-and-aria-describedby/)
