@@ -9,9 +9,9 @@ I love building and learning, it's a part of the reason why I'm a web developer.
 - [YouTube Timestamps](https://github.com/TylerJDev/YouTube-Timestamps)
 
 ## Blog Posts ✍🏽
-- [The difference between aria-label, aria-labelledby and aria-describedby](https://trjones.dev/the-difference-between-aria-label-aria-labelledby-and-aria-describedby/)
-- [When role="button" is not enough](https://trjones.dev/when-role-button-is-not-enough/)
-- [Partial links are inaccessible](https://trjones.dev/partial-links-are-inaccessible/)
+- [The difference between aria-label, aria-labelledby and aria-describedby](https://trjones.dev/posts/the-difference-between-aria-label-aria-labelledby-and-aria-describedby/)
+- [When role="button" is not enough](https://trjones.dev/posts/when-role-button-is-not-enough/)
+- [Partial links are inaccessible](https://trjones.dev/posts/partial-links-are-inaccessible/)
 
 ### Upcoming Posts
 1. *How accessible are emojis?*
